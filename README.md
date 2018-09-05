@@ -1,1 +1,3 @@
-# LWZXS.github.io
+<?php 
+phpinfo();
+?>
